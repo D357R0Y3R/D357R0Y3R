@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=20C20E&center=true&vCenter=true&width=650&lines=%F0%9F%91%BD+HELLO+VISITORS%2C+I+AM+MITHIL+MAJUMDER+(D357R0Y3R)+%F0%9F%91%BD" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3000&pause=500&color=20C20E&center=true&vCenter=true&width=650&lines=%F0%9F%91%BD+HELLO+VISITORS%2C+I+AM+MITHIL+MAJUMDER+(D357R0Y3R)+%F0%9F%91%BD;%F0%9F%91%BD+SENIOR+DEVSECOPS+ENGINEER+%F0%9F%91%BD;%F0%9F%91%BD+POLYGLOT+DEVELOPER+%F0%9F%91%BD;%F0%9F%91%BD+CYBER+SECURITY+SPECIALIST+%F0%9F%91%BD;%F0%9F%91%BD+SYSTEM+ADMINISTRATOR+%F0%9F%91%BD;%F0%9F%91%BD+LINUX+KERNEL+DEVELOPER+%F0%9F%91%BD;%F0%9F%91%BD+BUG+BOUNTY+HUNTER+%F0%9F%91%BD" alt="Typing SVG">
 </div>
 
 <div align="center">
