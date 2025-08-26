@@ -8,7 +8,7 @@
 
 <h1 align="center">🏆 GitHub Trophies</h1>
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=D357R0Y3R&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
+    <img src="https://trophygh.kolioaris.xyz/?username=D357R0Y3R&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
 </div>
 
 <h1 align="center">💻 Tech Stack</h1>
