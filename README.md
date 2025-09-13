@@ -60,7 +60,7 @@
 
 <h1 align="center">📊 GitHub Metrics</h1>
 <div align="center">
-    <img src="https://metrics.lecoq.io/D357R0Y3R" alt="GitHub Metrics">
+    <img src="github-metrics.svg" alt="GitHub Metrics">
 </div>
 
 <h1 align="center">✍️ Random Dev Quote</h1>
