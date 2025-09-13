@@ -58,9 +58,9 @@
     <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" alt="Gradle">
 </div>
 
-<h1 align="center">📊 GitHub Stats</h1>
+<h1 align="center">📊 GitHub Metrics</h1>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=D357R0Y3R&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats">
+    <img src="https://metrics.lecoq.io/D357R0Y3R" alt="GitHub Metrics">
 </div>
 
 <h1 align="center">✍️ Random Dev Quote</h1>
